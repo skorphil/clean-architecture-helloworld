@@ -9,7 +9,7 @@ To respect the rule of dependencies and to let getNotebook
 use `tauriNotebookRepository`, the dependency injection should be used.
 
 The concrete notebook repository will be injected in the instance of GetNotebook
-in a `composition root`, which does not conceptually related to any of architecture
+in a `composition root`, which does not conceptually relates to any of architecture
 layers. Commonly `composition root` located at the application entry point.
 */
 import { Notebook } from "@domain";
