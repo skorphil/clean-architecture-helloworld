@@ -6,6 +6,8 @@ This is simple practical example, I used to consolidate knowledge about
 - React is used for UI layer
 - Ports are implemented with typescript types
 
+Full article: https://philrich.dev/clean-architecture-react/
+
 ## Quick start
 Install project dependencies:
 ```
